@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+#div1{
+    background-color: aquamarine;
+    height:320px;
+}
+#div2{
+    background-color:bisque;
+    height:329px;
+}
+#container{
+    width:300px;
+    height:320px;
+    border: solid 1px grey;
+    position:absolute;
+    left: 40%;
+    top:25%;
+    text-align: center;
+}
+img{
+    width:100px;
+    margin-top: 60px;
+}
+p{
+    margin-top: 50px;
+}
+button{
+    margin-top:20px ;
+}
